@@ -12,7 +12,7 @@ The work was developed as part of the "Computer Vision and cognitive systems" ex
 |-|-|-|
 |Olmo Baldoni|[325524@studenti.unimore.it](mailto:325524@studenti.unimore.it)|[olmobaldoni](https://github.com/olmobaldoni)|
 |Cristian Bellucci|[322906@studenti.unimore.it](mailto:322906@studenti.unimore.it)|[cleb98](https://github.com/cleb98)|
-|Danilo Caputo|[212017@studenti.unimore.it](mailto:246019@studenti.unimore.it)|[RiccardoSanti092](https://github.com/IloDan)|
+|Danilo Caputo|[246019@studenti.unimore.it](mailto:246019@studenti.unimore.it)|[Ilodan](https://github.com/IloDan)|
 
 ---
 
