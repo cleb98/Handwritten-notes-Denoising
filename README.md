@@ -16,7 +16,7 @@ The work was developed as part of the "Computer Vision and cognitive systems" ex
 
 ---
 
-##Usage
+## Usage
 
 The data generation folder contains all the scripts to generate the dataset and compute the mean and variance.
 
